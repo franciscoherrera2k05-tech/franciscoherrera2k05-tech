@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently completing an undergraduate Data Science and Music degree at the University of Virginia.
+
+Current projects:
+ETL Pipeline utilizing Spotify's API to display a user's current top 20 tracks
+EDA/Data Analyzation/Data Visualizations of top 100 Billboard data
 <!--
 **franciscoherrera2k05-tech/franciscoherrera2k05-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
